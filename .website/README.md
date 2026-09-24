@@ -1,4 +1,8 @@
 ---
+genres:
+  - stealth
+  - action
+  - adventure
 directors_cut: https://justinsullard.com/alleycatnoir/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
